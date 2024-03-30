@@ -16,4 +16,4 @@ The API takes the file, pushes it to Azure Speech to Text API, sends the text to
 
 Please DM @ryan_haraki on Twitter if you need any help! You're free to re-use this code in your own projects.
 
-Credits go to [Borna Shani]([url](https://www.linkedin.com/in/borna-shani), [Alison Hardy]([url](https://github.com/alichiba)), and [Ryan Haraki]([url](https://github.com/ryanharaki)).
+Credits go to [Borna Shani](https://www.linkedin.com/in/borna-shani), [Alison Hardy](https://github.com/alichiba), and [Ryan Haraki](https://github.com/ryanharaki).
