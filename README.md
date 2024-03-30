@@ -15,3 +15,5 @@ There's a python script running on the Rapsberry Pi listening for a button input
 The API takes the file, pushes it to Azure Speech to Text API, sends the text to the OpenAI Completions API, and finally we send that to Azure's TTS API and send the .wav file back to the user, and the script plays the audio file back.
 
 Please DM @ryan_haraki on Twitter if you need any help! You're free to re-use this code in your own projects.
+
+Credits go to [Borna Shani]([url](https://www.linkedin.com/in/borna-shani), [Alison Hardy]([url](https://github.com/alichiba)), and [Ryan Haraki]([url](https://github.com/ryanharaki)).
